@@ -10,4 +10,10 @@ public class GerenciaDeConfiguracaoBlogApplication {
 		SpringApplication.run(GerenciaDeConfiguracaoBlogApplication.class, args);
 	}
 
+	//Teste de Marge na Branch - SQL-Propriedade
+	public static void TesteDeMerge(String test) {
+		
+		TesteDeMerge(test);
+	}
+
 }
